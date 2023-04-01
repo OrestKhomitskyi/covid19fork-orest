@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/ec2-user/server
+cd /home/ubuntu/server
 sudo apt install nodejs
